@@ -10,3 +10,5 @@ All the results are displayed in word document.
 All the tasks are executed for 200 epochs, except the task5 which is executed for 50 epochs only.
 
 All the results are also in the PNG format in zip folder.
+
+Note: If you require Data files feel free to put your email address in issue. I will get back to you asap.
