@@ -1,0 +1,12 @@
+______________________________________________________________________________________________
+To Execute Program just run command ::::     python Patel_assignment_05.py
+
+Enter the no_of_task when it is asked.
+
+There are five tasks so other number than 1 to 5 will terminate the program.
+
+All the results are displayed in word document.
+
+All the tasks are executed for 200 epochs, except the task5 which is executed for 50 epochs only.
+
+All the results are also in the PNG format in zip folder.
